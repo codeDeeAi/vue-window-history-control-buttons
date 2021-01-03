@@ -1,6 +1,6 @@
 ## Installation
 
-npm i vue-cli-plugin-windowhistorybuttons
+    npm i vue-cli-plugin-windowhistorybuttons
 
 ## Initialization
 
