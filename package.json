@@ -3,7 +3,7 @@
     "name": "vue-cli-plugin-windowhistorybuttons",
     "version": "1.0.0",
     "description": "A Highly customizable Vue Js plugin that gives you access to browser history controls",
-    "main": "./dist/index.js",
+    "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
