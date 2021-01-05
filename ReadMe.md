@@ -44,7 +44,7 @@ You can initialize it in  vue js entry point (e.g App.js, main.js)
 
 4. Css takes an object of manual css style 
 
-        e.g #myBtn{
+        e.g {
             'height': 20px,
             'width': 1rem,
             'padding': .5rem
