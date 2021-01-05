@@ -1,6 +1,10 @@
 ## Installation
 
     npm i vue-cli-plugin-windowhistorybuttons
+ 
+ Note:
+    This package makes use of rollup-plugin-vue which works better with Vue Js 3
+ 
 
 ## Initialization
 
