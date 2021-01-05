@@ -1,12 +1,17 @@
 {
     "private": false,
     "name": "vue-cli-plugin-windowhistorybuttons",
-    "version": "1.0.0",
+    "version": "1.0.3",
     "description": "A Highly customizable Vue Js plugin that gives you access to browser history controls",
-    "main": "index.js",
+    "main": "./dist/index.js",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev": "vue serve controls.vue",
+        "build": "bili --name index --plugin vue --vue.css false"
     },
+    "files": [
+        "dist/*"
+    ],
     "author": "Bada Adeola O",
     "license": "MIT",
     "devDependencies": {

@@ -1,5 +1,5 @@
 /*!
- * vue-cli-plugin-windowhistorybuttons v1.0.0
+ * vue-cli-plugin-windowhistorybuttons v1.0.3
  * (c) Bada Adeola O
  * Released under the MIT License.
  */

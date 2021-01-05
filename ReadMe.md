@@ -18,10 +18,10 @@ You can initialize it in  vue js entry point (e.g App.js, main.js)
 
     <!-- Our Plugin component -->
     <window-control-buttons
-        :type = "String",
-        :design = "Array",
-        :icon = "Array",
-        :css = "Object",
+        :type = "String"
+        :design = "Array"
+        :icon = "Array"
+        :css = "Object"
     >
     </window-control-buttons>
     <!-- Our Plugin Component -->
@@ -44,7 +44,7 @@ You can initialize it in  vue js entry point (e.g App.js, main.js)
 
 4. Css takes an object of manual css style 
 
-        e.g {
+        e.g #myBtn{
             'height': 20px,
             'width': 1rem,
             'padding': .5rem
@@ -57,10 +57,10 @@ e.g
         <div>
             <!-- Our Component -->
             <window-control-buttons
-                :type = "config.type",
-                :design = "config.design",
-                :icon = "config.icon",
-                :css = "config.css",
+                :type = "config.type"
+                :design = "config.design"
+                :icon = "config.icon"
+                :css = "config.css"
             >
 
             </window-control-buttons>
